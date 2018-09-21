@@ -1,0 +1,17 @@
+S.No.,Features
+0,instant
+1,dteday
+2,season
+3,yr
+4,mnth
+5,holiday
+6,weekday
+7,workingday
+8,weathersit
+9,temp
+10,atemp
+11,hum
+12,windspeed
+13,casual
+14,registered
+15,cnt
